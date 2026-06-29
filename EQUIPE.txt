@@ -1,0 +1,33 @@
+========================================================================
+UNIVERSIDADE FEDERAL DO CEARA - UFC
+INSTITUTO UNIVERSIDADE VIRTUAL - IUVI
+DISCIPLINA: SMD0017 - PROGRAMACAO ORIENTADA A OBJETOS
+PROFESSOR: Gilvan Maia
+TRABALHO FINAL - 2026.1
+========================================================================
+
+TEMA DO PROJETO: Sistema de Gerenciamento de Biblioteca (em Java)
+
+------------------------------------------------------------------------
+COMPONENTES DA EQUIPE
+------------------------------------------------------------------------
+
+Nome.......: Leanderson Nunes da Rocha
+Matricula..: 545589
+Papel......: Desenvolvedor (analise, modelagem OO, implementacao,
+             diagrama de classes e documentacao)
+
+------------------------------------------------------------------------
+MAPEAMENTO - QUEM IMPLEMENTOU O QUE
+------------------------------------------------------------------------
+
+Por se tratar de equipe individual, todo o projeto foi implementado por
+Leanderson Nunes da Rocha (545589):
+
+  - Modelagem das classes e do diagrama de classes (Mermaid);
+  - Interface Emprestavel e classe abstrata ItemAcervo (abstracoes);
+  - Hierarquia de herancas: Livro, Revista e DVD (extends ItemAcervo);
+  - Classes Usuario, Endereco, Emprestimo, Biblioteca e GeradorRelatorio;
+  - Regras de negocio (prazos, multas, disponibilidade) com polimorfismo;
+  - Classe Main com a demonstracao executavel;
+  - Manual de instrucoes (README.md) e este arquivo de equipe.
