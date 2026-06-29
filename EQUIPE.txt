@@ -8,6 +8,8 @@ TRABALHO FINAL - 2026.1
 
 TEMA DO PROJETO: Sistema de Gerenciamento de Biblioteca (em Java)
 
+REPOSITORIO (codigo-fonte completo): https://github.com/Leanderson01/poo-final
+
 ------------------------------------------------------------------------
 COMPONENTES DA EQUIPE
 ------------------------------------------------------------------------
