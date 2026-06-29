@@ -5,6 +5,10 @@ Ele está escrito em [Mermaid](https://mermaid.js.org/), que é renderizado
 automaticamente pelo GitHub. Para editar/visualizar fora do GitHub, cole o
 código em <https://mermaid.live>.
 
+## Imagem do diagrama
+
+![Diagrama de classes do Sistema de Biblioteca](diagrama_classes.png)
+
 ## Legenda das relações
 
 | Notação | Significado | Exemplo no projeto |
